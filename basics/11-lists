@@ -1,4 +1,4 @@
-#!/bin/ban
+#!/bin/bash
 ls -la
 cd ../
 ls -la
