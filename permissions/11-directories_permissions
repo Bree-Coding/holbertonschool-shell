@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+X -R cd ./
+sudo find -d ./ -exec chmod a+X
