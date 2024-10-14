@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R root cd .
+chmod 777 -R cd ./
