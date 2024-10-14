@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh -p betty
+sudo chown betty ../tmp/hello
