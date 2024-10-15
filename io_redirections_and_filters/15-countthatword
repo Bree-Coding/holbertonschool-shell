@@ -1,2 +1,2 @@
-#!/bn/bash
+#!/bin/bash
 grep -cP '.+bin.+' /etc/passwd
