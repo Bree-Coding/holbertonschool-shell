@@ -1,2 +1,2 @@
-#!/bin/b_ash
+#!/bin/bash
 printf '%\n2f' $num 
